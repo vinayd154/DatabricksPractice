@@ -1,0 +1,1 @@
+select * from workspace.mobile_data.sample_db_data
