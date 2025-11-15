@@ -1,2 +1,2 @@
 # DatabricksPractice
-Databricks practice in Free addition connection
+Databricks practice in Free addition connection.
